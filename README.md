@@ -17,4 +17,4 @@ I'm looking For contributions to this project, to demonstrate various ways to fi
 * [fizzbuzz-ternary.swift](https://github.com/coston/fizzbuzz-swift/blob/master/fizzbuzz-ternary.swift)
   Straightforward solution using ternary
 * [fizzbuzz-patternmatching.swift](https://github.com/coston/fizzbuzz-swift/blob/master/fizzbuzz-patternmatching.swift)
-Solution using pattern matching. Pattern matching is the act of checking a given sequence of tokens for the presence of the constituents of some pattern. This is on that Scala level. 
+Solution using pattern matching. This is on that Scala level. 
