@@ -18,3 +18,5 @@ I'm looking For contributions to this project, to demonstrate various ways to fi
   Straightforward solution using ternary
 * [fizzbuzz-patternmatching.swift](https://github.com/coston/fizzbuzz-swift/blob/master/fizzbuzz-patternmatching.swift)
 Solution using pattern matching. This is on that Scala level. 
+* [fizzbuzz-ifelse.swift](https://github.com/coston/fizzbuzz-swift/blob/master/fizzbuzz-ifelse.swift)
+Solution using if else statemnents.
